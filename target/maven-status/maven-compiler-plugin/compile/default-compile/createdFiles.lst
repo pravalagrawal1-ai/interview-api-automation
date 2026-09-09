@@ -1,0 +1,6 @@
+com/interview/api/helpers/CandidateApiHelper.class
+com/interview/api/endpoints/CandidateEndpoints.class
+com/interview/api/config/ApiConfig.class
+com/interview/api/requestbuilder/CandidateRequestBuilder.class
+com/interview/api/validator/CandidateApiValidator.class
+com/interview/api/base/ServiceHelper.class
